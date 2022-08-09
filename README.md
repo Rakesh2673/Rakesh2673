@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rakesh D M</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh2673&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh2673" /> </p>
-
 <img align="right" alt="GIF" src="https://github.com/Ashish-Gore/Ashish-Gore/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh2673&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh2673" /> </p>
 
 - 🌱 I’m currently learning **Data Science, Artificial Intelligence and Data Analyst**
 
